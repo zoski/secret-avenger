@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 <form role="form">
@@ -14,6 +15,10 @@
 >>>>>>> 9d8b873ff0687b3fb5bbcdb32d37a0b34b6dbeab
 
 
+=======
+<?php include "includes/header.php" ?>
+<?php include "includes/navigation.php" ?>
+>>>>>>> 1f5e7992931dea7478f47cf942a52d64437a36ea
 	<h1><center>Inscription</center></h1>
 	<form method=post action="serveur\templates\serveur\confirmation.php">
 		<h2><u>Veuillez remplir les champs suivants:</u></h2>
@@ -23,3 +28,5 @@
 		<label><li>Adresse electronique:</li><input type="email" name="pseudo" id="pseudo" placeholder="Ex : Paul984@free.fr" size="30" required/></label></ul>
 		<div style="text-align:center"><input type="submit" value="Envoyer"/></div>
 	</form>
+<?php include "includes/footer.php" ?>
+
