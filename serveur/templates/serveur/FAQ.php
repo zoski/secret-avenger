@@ -1,4 +1,6 @@
 
+<?php include "includes/header.php" ?>
+<?php include "includes/navigation.php" ?>
 
 	<h1 >Foire Aux Questions: </h1>
 
@@ -38,4 +40,6 @@
 				<p>Cliquez sur la rubrique Contact (<a href="contact.php" title="Cliquez içi pour nous contacter">ou içi</a> ) et faites-nous part de votre question. Nous y répondrons dans les plus brefs délais.</p>
 				
 		</div>
+
+<?php include "includes/footer.php" ?>
 
