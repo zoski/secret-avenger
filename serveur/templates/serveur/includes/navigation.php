@@ -19,3 +19,7 @@
 				</div><!--/.nav-collapse -->
       		</div>
 		</div>
+		
+		
+		<div class="container"> <!-- Fin dans le footer-->
+			<div class="starter-template">
