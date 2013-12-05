@@ -2,7 +2,7 @@
 <?php include "includes/navigation.php" ?>
 
 <h1 >Foire Aux Questions: </h1>
-			<h2>Sommaire :</h2>
+	<h2>Sommaire :</h2>
 				<h3 id="comment_ça_marche">Comment ça marche  ? </h3>
 				<h3 id="difference_site">En quoi ce site diffère-t-il des autres ? </h3>
 				<h3 id="comment_sinscrire">Comment s'inscrire ?</h3>

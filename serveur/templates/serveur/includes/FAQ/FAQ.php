@@ -1,7 +1,6 @@
 <h1 >Foire Aux Questions: </h1>
-
 		<div>
-			<h2> Comment ça marche  ? </h2>
+			<p class="question"> Comment ça marche  ? </p>
 				<p >Notre site fonctionne de la manière suivante. Vous pouvez acheter ou recommander différents produits ou services. Lorsque vous êtes a la recherche d'un objet, notre site choisira les sites vendeurs les plus recommandés par les internautes, afin d'avoir le meilleur rapport qualité-prix, et le plus proche de vos désirs.</p>
 			<h2> En quoi ce site diffère-t-il des autres ?</h2>
 				<p>Notre concept est unique, c'est a dire que le client est au centre de la démarche d'achat et non le produit.</p>
