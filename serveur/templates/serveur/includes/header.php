@@ -9,8 +9,8 @@
 		<title>Site Search&Find</title>
 
 		<!-- Bootstrap core CSS + CSS perso -->
-		<link href="./../../../static/serveur/css/bootstrap.css" rel="stylesheet">
-		<link href="./../../../static/serveur/css/perso.css" rel="stylesheet">
-		<link href="./../../../static/serveur/css/font-awesome.min.css" rel="stylesheet" >
-		<link href="./../../..static/serveur/css/animations.css" rel="stylesheet">
+		<link href="../../static/serveur/css/bootstrap.css" rel="stylesheet">
+		<link href="../../static/serveur/css/perso.css" rel="stylesheet">
+		<link href="../../static/serveur/css/font-awesome.min.css" rel="stylesheet" >
+		<link href="../../static/serveur/css/animations.css" rel="stylesheet">
 	</head>
