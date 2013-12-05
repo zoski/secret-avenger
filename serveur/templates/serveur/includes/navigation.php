@@ -7,7 +7,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 			  		</button>
-			 		<a class="navbar-brand" href="index.php">BuyOrDie</a>
+			 		<a class="navbar-brand" href="index.php">Search&Find </a>
 				</div>
 			
 				<div class="collapse navbar-collapse">
