@@ -12,4 +12,9 @@ Idées en vrac
 	*Référencement comparatif*
 garder les meilleurs 
 
+ - Connexion
+ - Profil avec total vendu & achetté
+	activitée de la personne
+	permet d'avoir 
+
  	
