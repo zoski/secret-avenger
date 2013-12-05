@@ -1,8 +1,9 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
-	<h1>Bienvenue sur Y-commerce</h1>
-    <p class="lead">Y-commerce est un site permettant de faire vos achats selon vos envies et critères.
-		Cela facilitera dans vos choix en sélectionnant les 2 ou 3 liens menant vers le produit qui correspondra le plus à vos attentes.De plus, vous ne perdrez plus de temps avec des produits qui ne correspondent pas à ce que vous souhaitez. Y-commerce va simplifier le choix lors de vos achats et ceci sans marketing ciblé.
+	<h1>Bienvenue sur Search and Find</h1>
+    <p class="lead">Search and Find est un site permettant de faire vos achats selon vos envies et critères.</p>
+	<p>Cela facilitera dans vos choix en sélectionnant les 2 ou 3 liens menant vers le produit qui correspondra le plus à vos attentes.</p>
+	<p>De plus, vous ne perdrez plus de temps avec des produits qui ne correspondent pas à ce que vous souhaitez. Y-commerce va simplifier le choix lors de vos achats et ceci sans marketing ciblé.
 	</p>
 		
 	<div class="row">
