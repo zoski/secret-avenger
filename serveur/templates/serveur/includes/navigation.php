@@ -13,8 +13,8 @@
 				<div class="collapse navbar-collapse">
 			  		<ul class="nav navbar-nav">
 						<li><a href="index.php"><i class="fa fa-home fa-lg"></i> Accueil</a></li>
-						<li><a href="inscription.php"><i class="fa fa-calendar fa-lg"></i> Inscription</a></li>
-						<li><a href="FAQ.php"><i class="fa fa-heart-o fa-lg"></i> FAQ</a></li>
+						<li><a href="inscription.php"><i class="fa fa-user fa-lg"></i> Inscription</a></li>
+						<li><a href="FAQ.php"><i class="fa fa-question fa-lg"></i> FAQ</a></li>
 			  		</ul>
 				</div><!--/.nav-collapse -->
       		</div>
