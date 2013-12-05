@@ -1,15 +1,4 @@
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" />
-		<link rel="stylesheet" href="style.css" />
-        <title></title>
-    </head>
-
-    <body>
-		
-		<h1 >Foire Aux Questions: </h1>
+<h1 >Foire Aux Questions: </h1>
 			<h2>Sommaire :</h2>
 				<h3 id="comment_ça_marche">Comment ça marche  ? </h3>
 				<h3 id="comment_acheter">Comment Acheter ?</h3>
@@ -30,9 +19,3 @@
 			<h3 href="#acheter_sur_le_site"></h3>
 				<p> Non, lorsque vous aurez choisi votre achat, notre site choisira pour vous le site web le plus avantageux et proche de vos désirs. Il vous suffira ensuite de cliquer sur le lien et de suivre les instructions d'achat de votre objet.</p>
 			<h3 ></h3>
-
-		</div>
-		<footer>
-		</footer>
-    </body>
-</html>
