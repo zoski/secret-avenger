@@ -14,7 +14,7 @@
 				<div class="collapse navbar-collapse">
 			  		<ul class="nav navbar-nav">
 						<li><a href="index.php"><i class="fa fa-home fa-lg"></i> Accueil</a></li>
-						<li><a href="#event"><i class="fa fa-calendar fa-lg"></i> Événements</a></li>
+						<li><a href="#event"><i class="fa fa-calendar fa-lg"></i> Ã©vÃ¨nements</a></li>
 						<li><a href="#partenaires"><i class="fa fa-heart-o fa-lg"></i> Partenaires</a></li>
 						<li><a href="#contact"><i class="fa fa-comment-o fa-lg"></i> Contact</a></li> 
 			  		</ul>
