@@ -3,22 +3,16 @@ body {
 	background-color: #eeeeee;
 }
 
-[class*="col-"] {
-	padding-top: 15px;
-	padding-bottom: 15px;
+.questions{
+	text-decoration: underline;
+	font-size: 120%;
 }
 
-#logo {
-	text-align: center;
-	margin-bottom: 25px;
+p {
+	text-indent : 20px; 
 }
 
-h1 {
-	
-
-}
-
-h2 {
-	padding-left : 30px;
-
+h1{
+	font-weight: bold;
+	padding-bottom: 20px;
 }
