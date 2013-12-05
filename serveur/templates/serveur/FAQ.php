@@ -1,5 +1,4 @@
-<?php include "includes/header.php" ?>
-<?php include "includes/navigation.php" ?>
+
 
 	<h1 >Foire Aux Questions: </h1>
 
@@ -27,16 +26,16 @@
 				
 			<h2>Serai-je payé pour mes contributions ?</h2>
 				<p>Non, la contribution ne peut être rémunérée pour l'instant car le site n'est qu'à sa première version. Les recommandations sont donc envoyées par les utilisateurs de manière bénévole.</p>
-<<<<<<< HEAD
+
 			<p class="questions">Je ne trouve pas de réponse a ma question , que faire ? </p>
 				<p>Cliquez sur la rubrique Contacts et faites-nous part de votre question. Nous y répondrons dans les plus brefs délais.</p>
 		</div>
 		
-<?php include "includes/footer.php" ?>
-=======
+
+
 				
 			<h2>Je ne trouve pas de réponse a ma question , que faire ? </h2>
 				<p>Cliquez sur la rubrique Contact (<a href="contact.php" title="Cliquez içi pour nous contacter">ou içi</a> ) et faites-nous part de votre question. Nous y répondrons dans les plus brefs délais.</p>
 				
 		</div>
->>>>>>> La routine de Daniel
+
