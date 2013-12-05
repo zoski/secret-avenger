@@ -1,9 +1,11 @@
+<?php include "includes/header.php" ?>
+<?php include "includes/navigation.php" ?>
 
 <body>
 <h1><center>Inscription</center></h1>
 <br/><br/><br/>
 
-<form method=post action="file:///C:/Users/Cyprien/Desktop/confirmation.html">
+<form method=post action="confirmation.php">
 <h2><u>Veuillez remplir les champs suivants:</u></h2><br/>
 <h3><label>Pseudonyme:<input type="text" name="pseudo"id="pseudo" placeholder="Ex : Paul984" size="30" required/></label></h3>
 <h3><label>Mot de passe (qui doit comporter minimum 6 caracteres) :<input type="password" name="pass" id="pass"required/></label></h3>
@@ -14,3 +16,6 @@
 
 
 </body>
+
+
+<?php include "includes/footer.php" ?>
