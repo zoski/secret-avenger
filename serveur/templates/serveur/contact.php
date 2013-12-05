@@ -1,3 +1,5 @@
+<?php include "includes/header.php" ?>
+<?php include "includes/navigation.php" ?>
 <html>
 	<h1>Nous contacter :<h1><br />
 	<h3>Pour nous contacter, veuillez remplir les champs suivants :<h3>
@@ -11,4 +13,5 @@
 		<input type="submit" value="Envoyer"/>
 	</p>
 	</form>
+<?php include "includes/footer.php" ?>
 	<!-- Espacer chaque ligne, centrer le titre et la touche "Envoyer" -->
