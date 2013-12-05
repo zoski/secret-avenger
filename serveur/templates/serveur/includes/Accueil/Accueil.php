@@ -1,2 +1,2 @@
-<?php include 'haut.php'?>
-<?php include 'bas.php'?>
+<?php include "haut.php"?>
+<?php include "bas.php"?>
