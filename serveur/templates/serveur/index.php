@@ -1,15 +1,6 @@
-{% load staticfiles %}
+<?php include "includes/header.php" ?>
+<?php include "includes/nav.php" ?>
 
-<!doctype html>
-<html lang="fr">
-<head>
-  <meta charset="utf-8">
-  <title>Titre de la page</title>
-  <link rel="stylesheet" href="{% static 'serveur/css/style.css' %}">
-  <script src="script.js"></script>
-</head>
-<body>
+<?php include "includes/acceuil.php" ?>
 
-
-</body>
-</html>
+<?php include "includes/footer.php" ?>
