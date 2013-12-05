@@ -1,5 +1,5 @@
-
-
+<?php include "includes/header.php" ?>
+<?php include "includes/navigation.php" ?>
 	<h1><center>Inscription</center></h1>
 	<form method=post action="serveur\templates\serveur\confirmation.php">
 		<h2><u>Veuillez remplir les champs suivants:</u></h2>
@@ -9,3 +9,5 @@
 		<label><li>Adresse electronique:</li><input type="email" name="pseudo" id="pseudo" placeholder="Ex : Paul984@free.fr" size="30" required/></label></ul>
 		<div style="text-align:center"><input type="submit" value="Envoyer"/></div>
 	</form>
+<?php include "includes/footer.php" ?>
+
