@@ -8,9 +8,20 @@
     </head>
 
     <body>
-		<header> 
-
-		</header>
+		
+		<h1 >Foire Aux Questions: </h1>
+			<h3 id="">Comment ça marche  ? </h3>
+				<a href=""></a>
+			<h3 id=""></h3>
+				<a href=""></a>
+			<h3 id=""></h3>
+				<a href=""></a>
+			<h3 id=""></h3>
+				<a href=""></a>
+			<h3 id=""></h3>
+				<a href=""></a>
+			<h3 id=""></h3>
+				<a href=""></a>
 	
 		<footer>
 		</footer>
