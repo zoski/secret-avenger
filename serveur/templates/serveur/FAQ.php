@@ -1,4 +1,7 @@
-<h1 >Foire Aux Questions: </h1>
+<?php include "includes/header.php" ?>
+<?php include "includes/navigation.php" ?>
+
+	<h1 >Foire Aux Questions: </h1>
 
 		<div>
 			<p class="questions"> Comment ça marche  ? </p>
@@ -20,3 +23,5 @@
 			<p class="questions">Je ne trouve pas de réponse a ma question , que faire ? </p>
 				<p>Cliquez sur la rubrique Contacts et faites-nous part de votre question. Nous y répondrons dans les plus brefs délais.</p>
 		</div>
+		
+<?php include "includes/footer.php" ?>
