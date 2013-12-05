@@ -1,13 +1,9 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
 	<h1>Bienvenue sur Y-commerce</h1>
-    <ul class="description">  
-		<U>description:</U>
-		<li>Y-commerce est un site permettant de faire vos achats selon vos envies et critères. </li>
-		<li>Cela facilitera dans vos choix en sélectionnant les 2 ou 3 liens menant vers le produit qui correspondra le plus à vos attentes.</li>
-		<li>De plus, vous ne perdrez plus de temps avec des produits qui ne correspondent pas à ce que vous souhaitez.</li>
-		<li>Y-commerce va simplifier le choix lors de vos achats et ceci sans marketing ciblé.</li>
-	</ul>
+    <p class="lead">Y-commerce est un site permettant de faire vos achats selon vos envies et critères.
+		Cela facilitera dans vos choix en sélectionnant les 2 ou 3 liens menant vers le produit qui correspondra le plus à vos attentes.De plus, vous ne perdrez plus de temps avec des produits qui ne correspondent pas à ce que vous souhaitez. Y-commerce va simplifier le choix lors de vos achats et ceci sans marketing ciblé.
+	</p>
 		
 	<div class="row">
 		<div class="col-md-6"><p class="acheter">
