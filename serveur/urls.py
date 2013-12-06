@@ -9,5 +9,5 @@ urlpatterns = patterns('',
     url(r'^inscription/$', views.inscription, name='inscription'),
     url(r'^login/$', views.login, name='login'),
     url(r'^logingin/$', views.logingin, name='logingin'),
-                       
+    url(r'^(?P<id>\d+)/search/$', views.search, name='search'),
 )

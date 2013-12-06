@@ -4,7 +4,7 @@ from django.contrib.auth.models import User, UserManager
 from django.contrib.auth import get_user_model
 from django.http import HttpResponseRedirect, HttpResponse
 from django.core.urlresolvers import reverse
-from serveur.models import Utilisateur
+from serveur.models import Utilisateur, Selection
 
 
 # Create your views here.
@@ -12,7 +12,12 @@ def index(request):
     return render(request, 'serveur/index.html', {})
 
 def search(request, id):
-    return HttpResponse("search item %s." % id)
+    act = Selection.objects.get(nom__exact==id)
+    sel1 = Selection.objects.get(nom__exact==act.choix1)
+    sel2 = Selection.objects.get(nom__exact==act.choix2)
+    sel3 = Selection.objects.get(nom__exact==act.choix3)
+    sel4 = Selection.objects.get(nom__exact==act.choix4)
+    return render(request, 'serveur/search.html', {id:id, vendeur:vendeur, sel1:sel1, sel2:sel2, sel3:sel3, sel4:sel4})
 
 def user_crea(request):
     passw = request.POST['pass']
@@ -22,7 +27,7 @@ def user_crea(request):
         return HttpResponseRedirect(reverse('serveur:index'))
     else:
         return render(request, 'serveur/inscription.html', {
-            'error_message': "Echec de l'inscription!",
+            'erreur_message': "Echec de l'inscription!",
         })
             
 def inscription(request):
@@ -32,10 +37,13 @@ def login(request):
     return render(request, 'serveur/login.html', {}) 
 
 def logingin(request):
-    user = User.objects.get(username__exact=request.POST['pseudo']
-    if(user.password == request.POST['pass']):
+    userAct = User.objects.get(username__exact=request.POST['pseudo'])
+    if(userAct.password == request.POST['pass']):
         return HttpResponseRedirect(reverse('serveur:index'))
     else:
-        return render(request, 'serveur/login.html', {
-            'error_message': "Echec de l'authentification!",
+        return render(request, 'serveur/inscription.html', {
+            'erreur_message': "Echec de l'authentification!",
         })
+
+    
+
