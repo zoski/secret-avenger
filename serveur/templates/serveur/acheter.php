@@ -45,11 +45,23 @@
 				<div class="row">
 				
 					<div class="col-lg-6">
-						<button class="btn btn-info btn-xlarge cat">Mobilier</button>	
+						<button class="btn btn-info btn-block cat">Livres</button>	
 					</div>
 					
 					<div class="col-lg-6">
-						<button class="btn btn-success btn-xlarge2 cat">Electroménager</button>
+						<button class="btn btn-success btn-block cat">Mobilier</button>
+					</div>
+	
+				</div>
+				
+				<div class="row">
+				
+					<div class="col-lg-6">
+						<button class="btn btn-danger btn-block cat">Numérique</button>	
+					</div>
+					
+					<div class="col-lg-6">
+						<button class="btn btn-default btn-block cat">Maison</button>
 					</div>
 	
 				</div>

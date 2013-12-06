@@ -50,6 +50,16 @@ h2 {
     }
 
 
+
+.cat {
+	padding-top : 100 px;
+	padding-bottom : 250px;
+	font-size: 80px;
+	border-radius: 50px;
+}
+	
+
+
 /**
  * Example base
  */
@@ -71,4 +81,6 @@ body {
        -moz-border-radius: 8px;
             border-radius: 50px;
     }
->>>>>>> acheter
+
+
+Ma
