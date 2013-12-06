@@ -5,21 +5,21 @@
 	<p class="lead">Pour nous contacter, veuillez remplir les champs suivants :</p>
 	<form method="post" action="serveur\templates\serveur\contact">
 	<div class="form-group">
-			<label for="inputPseudo" class="col-sm-4">Pseudonyme:</label>
+			<label for="inputPseudo" class="col-sm-4">Pseudonyme :</label>
 			<div class="col-sm-8">
 				<input type="text" class="form-control" name="pseudo" id="pseudo" placeholder="Ex : Paul984" size="30" required/>
 			</div>
 		</div>
 
 		<div class="form-group">
-			<label for="inputEmail" class="col-sm-4">Adresse electronique:</label>
+			<label for="inputEmail" class="col-sm-4">Adresse electronique :</label>
 				<div class="col-sm-8">
 				<input type="email" class="form-control" name="mail" id="mail" placeholder="Ex : Paul984@free.fr" size="30" required/>
 				</div>
 		</div>
 		
 		<div class="form-group">
-			<label for="inputMdp" class="col-sm-4">Confirmation de votre mot de passe:</label>
+			<label for="inputMdp" class="col-sm-4">Confirmation de votre mot de passe :</label>
 			<div class="col-sm-8">
 				<input type="password" class="form-control"  name="pass_conf" id="pass_conf"required/>
 			</div>
