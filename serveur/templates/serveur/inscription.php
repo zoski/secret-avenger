@@ -1,9 +1,8 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
 
-<form class="form-horizontal" role="form">
+	<form class="form-horizontal" role="form" action="serveur\templates\serveur\login">
 		<h1>Inscription</h1>
-		<form method="post" action="serveur\templates\serveur\login">
 		<p class="lead">Veuillez remplir les champs suivants :</p>
 
 	<!--  Formulaire d'inscription-->

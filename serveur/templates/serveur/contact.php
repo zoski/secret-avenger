@@ -1,9 +1,8 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
-<form class="form-horizontal" role="form">
+<form class="form-horizontal" role="form" action="serveur\templates\serveur\contact">
 	<h1>Nous contacter</h1>
 	<p class="lead">Pour nous contacter, veuillez remplir les champs suivants :</p>
-	<form method="post" action="serveur\templates\serveur\contact">
 	<div class="form-group">
 			<label for="inputPseudo" class="col-sm-4">Pseudonyme :</label>
 			<div class="col-sm-8">
