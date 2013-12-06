@@ -1,7 +1,12 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
+<<<<<<< HEAD
 
 	<form class="form-horizontal" role="form" action="serveur\templates\serveur\login">
+=======
+<?php include "includes/ban.php" ?>
+<form class="form-horizontal" role="form">
+>>>>>>> 73ac849653b17a0ab4c0d4c60146d240a43606f1
 		<h1>Inscription</h1>
 		<p class="lead">Veuillez remplir les champs suivants :</p>
 

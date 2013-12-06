@@ -1,7 +1,7 @@
 
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
-
+<?php include "includes/ban.php" ?>
 	<h1 >Foire Aux Questions: </h1>
 
 		<div>

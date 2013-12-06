@@ -1,6 +1,11 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
+<<<<<<< HEAD
 <form class="form-horizontal" role="form" action="serveur\templates\serveur\contact">
+=======
+<?php include "includes/ban.php" ?>
+<form class="form-horizontal" role="form">
+>>>>>>> 73ac849653b17a0ab4c0d4c60146d240a43606f1
 	<h1>Nous contacter</h1>
 	<p class="lead">Pour nous contacter, veuillez remplir les champs suivants :</p>
 	<div class="form-group">

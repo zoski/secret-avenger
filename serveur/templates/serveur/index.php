@@ -1,6 +1,6 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
-
+<?php include "includes/ban.php" ?>
 	<h1>Bienvenue sur Search&Find !! </h1>
 		<p class="lead">
 			Search&Find est un site permettant de faire vos achats selon vos envies et critères.

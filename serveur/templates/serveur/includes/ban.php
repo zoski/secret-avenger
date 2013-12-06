@@ -1,0 +1,1 @@
+<img src="../../static/serveur/img/banniere.jpg" alt="banniere du site" />
