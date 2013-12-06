@@ -4,7 +4,7 @@
 <form class="form-horizontal" role="form">
 		<h1>Inscription</h1>
 		<form method="post" action="serveur\templates\serveur\login">
-		<h2 class="inscritpion">Veuillez remplir les champs suivants:</h2>
+		<p class="lead">Veuillez remplir les champs suivants :</p>
 
 	<!--  Formulaire d'inscription-->
 		 <div class="form-group">
