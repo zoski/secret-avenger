@@ -7,3 +7,8 @@ def index(request):
 
 def search(request, id):
     return HttpResponse("search item %s." % id)
+
+def login(request):
+    try:
+        create_user(request.POST['pseudo'], request.POST['choice'], request.POST['choice'])
+        

@@ -24,7 +24,7 @@
 		<div class="form-group">
 			<label for="inputMdp" class="col-sm-3">Confirmation de votre mot de passe:</label>
 			<div class="col-sm-3">
-				<input type="password" class="form-control"  name="pass" id="pass"required/>
+				<input type="password" class="form-control"  name="pass_conf" id="pass_conf"required/>
 			</div>
 		</div>
 
