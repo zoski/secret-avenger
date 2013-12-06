@@ -29,9 +29,6 @@
 			<div class="questions" >Serai-je payé pour mes contributions ?</div>
 				<p>Non, la contribution ne peut être rémunérée pour l'instant car le site n'en est qu'à sa première version. Les recommandations sont donc envoyées par les utilisateurs de manière bénévole.</p>
 
-			<div class="questions" >Je ne trouve pas de réponse à ma question , que faire ? </div>
-				<p>Cliquez sur la rubrique Contacts et faites-nous part de votre question. Nous y répondrons dans les plus brefs délais.</p>
-
 			<div class="questions" >Je ne trouve pas de réponse a ma question , que faire ? </div>
 				<p>Cliquez sur la rubrique Contact (<a href="contact.php" title="Cliquez içi pour nous contacter">ou ici</a> ) et faites-nous part de votre question. Nous y répondrons dans les plus brefs délais.</p>
 				
