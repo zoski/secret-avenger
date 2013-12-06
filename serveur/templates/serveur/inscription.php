@@ -31,7 +31,7 @@
 		<div class="form-group">
 			<label for="inputEmail" class="col-sm-3">Adresse electronique:</label>
 				<div class="col-sm-3">
-				<input type="email"  class="form-control" name="pseudo" id="pseudo" placeholder="Ex : Paul984@free.fr" size="30" required/>
+				<input type="email"  class="form-control" name="mail" id="mail" placeholder="Ex : Paul984@free.fr" size="30" required/>
 				</div>
 		</div>
 		<button type="button" class="btn btn-default btn-lg btn-block">Envoyer ;-)</button>				
