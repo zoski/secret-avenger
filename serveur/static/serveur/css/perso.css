@@ -22,7 +22,7 @@ h2 {
 
 }
 
-<<<<<<< HEAD
+/*HEAD*/
 .logo {
 	padding: 5px;
 	text-align: center;
@@ -33,12 +33,7 @@ h2 {
 .bann{
 	background-color: black;
 }
-=======
 
-
-/**
- * Extra large button extensions. Extends `.btn`.
- */
 .btn-xlarge {
     padding: 150px 130px;
     font-size: 40px;
@@ -47,8 +42,6 @@ h2 {
        -moz-border-radius: 8px;
             border-radius: 50px;
     }
-
-
 
 .cat {
 	font-size: 80px;
@@ -61,23 +54,15 @@ body label:hover{
 
 .questions{
 	text-decoration: underline;
+	font-style: italic;
+	padding-top: 10px;
 }
-/**
- * Example base
- */
-body {
-    
-    }
 
 p{
 	text-indent: 20px; 
 	text-align: left;
 }
-
-
-/**
- * Extra large button extensions. Extends `.btn`.
- */
+ 
 .btn-xlarge2 {
     padding: 150px 60px;
     font-size: 40px;
@@ -85,7 +70,4 @@ p{
     -webkit-border-radius: 8px;
        -moz-border-radius: 8px;
             border-radius: 50px;
-    }
-
-
-Ma
+}
