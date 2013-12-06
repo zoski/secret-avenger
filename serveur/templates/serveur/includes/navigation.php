@@ -14,7 +14,7 @@
 				<div class="collapse navbar-collapse">
 			  		<ul class="nav navbar-nav">
 						<li><a href="index.php"><i class="fa fa-home fa-lg"></i> Accueil</a></li>
-						<li><a href="inscription.php"><i class="fa fa-user fa-lg"></i> Inscription</a></li>
+						<li><a href="inscription.php"><i class="fa fa-user fa-lg"></i> Inscription/Login</a></li>
 						<li><a href="FAQ.php"><i class="fa fa-question fa-lg"></i> FAQ</a></li>
 						<li><a href="contact.php"><i class="fa fa-envelope-o fa-lg"></i> Contact</a></li>
 			  		</ul>

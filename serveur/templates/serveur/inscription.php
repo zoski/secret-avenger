@@ -50,7 +50,7 @@
         <input type="password" class="form-control" placeholder="Mot de passe" required>
 		<p></p>
 		<div id="object" class="fadeIn">		
-       		<button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+       		<button class="btn btn-lg btn-primary btn-block" type="submit">Envoyer ;-)</button>
 		</div>
       </form>
 	</div>

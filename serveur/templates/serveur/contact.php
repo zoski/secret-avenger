@@ -2,7 +2,7 @@
 <?php include "includes/navigation.php" ?>
 <?php include "includes/ban.php" ?>
 <form class="form-horizontal" role="form" action="serveur\templates\serveur\contact">
-	<h1>Nous contacter</h1>
+	<h2 class="form-signin-heading">Nous contacter</h2>
 	<p class="lead">Pour nous contacter, veuillez remplir les champs suivants :</p>
 	<div class="form-group">
 			<label for="inputPseudo" class="col-sm-4">Pseudonyme :</label>
