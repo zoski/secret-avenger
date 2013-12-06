@@ -18,13 +18,13 @@
 				<p >Attendez dans un premier temps quelques minutes.. Si au bout d'un certain temps vous ne recevez rien, cela signifie que l'adresse mail que vous avez fournie n'est pas valide. Veuillez recréer un compte ou dans le cas échéant, vérifier votre adresse mail.</p>
 				
 			<div class="questions" >Comment acheter ?</div>
-				<p> Dans la page d'accueil, vous aurez le choix entre deux possibilités. Si vous souhaitez acheter un objet, dirigez-vous vers la partie gauche (en bleue) de l'écran d'accueil. Il vous suffira ensuite de suivre la démarche à l'écran en indiquant par exemple le nom de l'objet ainsi que les critères auxquels il doit répondre.</p>
+				<p> Dans la page d'accueil, vous aurez le choix entre deux possibilités. Si vous souhaitez acheter un objet, dirigez-vous vers la partie gauche de l'écran d'accueil. Il vous suffira ensuite de suivre la démarche à l'écran en indiquant par exemple le nom de l'objet ainsi que les critères auxquels il doit répondre.</p>
 				
 			<div class="questions" >Vais-je acheter sur le site ? </div>
 				<p>Non, lorsque vous aurez choisi votre achat, notre site choisira pour vous le site web le plus avantageux et proche de vos désirs. Il vous suffira ensuite de cliquer sur le lien et de suivre les instructions d'achat de votre objet.</p>
 				
 			<div class="questions" >Comment recommander ?</div>
-				<p>Pour recommander, il suffira de vous diriger vers la partie droite de l'écran d'accueil (en rouge). Il faut au préalable posséder un compte sur notre site. Pas de panique, vous pouvez cliquer <a href="inscription.php" title="Cliquez içi pour vous inscrire">ici</a>  pour créer un compte.</p>
+				<p>Pour recommander, il suffira de vous diriger vers la partie droite de l'écran d'accueil. Il faut au préalable posséder un compte sur notre site. Pas de panique, vous pouvez cliquer <a href="inscription.php" title="Cliquez içi pour vous inscrire">ici</a>  pour créer un compte.</p>
 				
 			<div class="questions" >Serai-je payé pour mes contributions ?</div>
 				<p>Non, la contribution ne peut être rémunérée pour l'instant car le site n'en est qu'à sa première version. Les recommandations sont donc envoyées par les utilisateurs de manière bénévole.</p>
