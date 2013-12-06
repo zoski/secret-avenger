@@ -59,7 +59,9 @@ h2 {
 }
 	
 
-
+.questions{
+	text-decoration: underline;
+}
 /**
  * Example base
  */
@@ -67,7 +69,10 @@ body {
     
     }
 
-
+p{
+	text-indent: 20px; 
+	text-align: left;
+}
 
 
 /**

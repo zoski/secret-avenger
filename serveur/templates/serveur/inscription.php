@@ -10,32 +10,27 @@
 
 		<!--  Formulaire d'inscription-->
 			 <div class="form-group">
-				<label for="inputPseudo" class="col-sm-4">Pseudonyme:</label>
-				<div class="col-sm-8">
-					<input type="text" class="form-control" name="pseudo" id="pseudo" placeholder="Ex : Paul984" size="30" required/>
-				</div>
-			</div>
-
-			<div class="form-group">
-				<label for="inputMdp" class="col-sm-4">Mot de passe :</label>
-				<div class="col-sm-8">
-					<input type="password" class="form-control"  name="pass" id="pass"required/>
-				</div>
-			</div>
-		
-			<div class="form-group">
-				<label for="inputMdp" class="col-sm-4">Confirmation de votre mot de passe:</label>
-				<div class="col-sm-8">
-					<input type="password" class="form-control"  name="pass_conf" id="pass_conf"required/>
-				</div>
-			</div>
-
-			<div class="form-group">
-				<label for="inputEmail" class="col-sm-4">Adresse electronique:</label>
+				<label for="pseudo" class="col-sm-4">Pseudonyme:</label>
 					<div class="col-sm-8">
-					<input type="email" class="form-control" name="mail" id="mail" placeholder="Ex : Paul984@free.fr" size="30" required/>
+						<input type="text" class="form-control" name="pseudo" id="pseudo" placeholder="Ex : Paul984" size="30" required/>
+					</div>
+				
+				<label for="pass" class="col-sm-4">Mot de passe :</label>
+					<div class="col-sm-8">
+						<input type="password" class="form-control"  name="pass" id="pass"required/>
+					</div>
+
+				<label for="pass_conf" class="col-sm-4">Confirmation de votre mot de passe:</label>
+					<div class="col-sm-8">
+						<input type="password" class="form-control"  name="pass_conf" id="pass_conf"required/>
+					</div>
+
+				<label for="mail" class="col-sm-4">Adresse electronique:</label>
+					<div class="col-sm-8">
+						<input type="email" class="form-control" name="mail" id="mail" placeholder="Ex : Paul984@free.fr" size="30" required/>
 					</div>
 			</div>
+			
 			<div id="object" class="fadeIn">
 				<button type="submit" class="btn btn-primary btn-lg btn-block">Envoyer ;-)</button>
 			</div>		
