@@ -2,14 +2,21 @@
 <?php include "includes/navigation.php" ?>
 <?php include "includes/ban.php" ?>
 	<h1>Bienvenue sur Search&Find !! </h1>
-		<p class="lead">
-			Search&Find est un site permettant de faire vos achats selon vos envies et critères.
-			Cela facilitera vos choix en sélectionnant les liens menant vers le produit qui correspondra le plus à vos attentes.
-		</p>
-		<p class="lead">
-			De plus, vous ne perdrez plus de temps avec des produits qui ne correspondent pas à ce que vous souhaitez. Search&Find va simplifier le choix lors de vos achats et ceci sans marketing ciblé.
-		</p>
-		
+	<div class="row">
+		<div class="col-md-6">
+			<video hreff="zoski.fr/dl/ClipNuitDeLInfo" controls poster="sintel.jpg">⁪</v
+		</div>
+		<div class="col-md-6">
+			<p class="lead">
+				Search&Find est un site permettant de faire vos achats selon vos envies et critères.
+				Cela facilitera vos choix en sélectionnant les liens menant vers le produit qui correspondra le plus à vos attentes.
+			</p>
+			<p class="lead">
+				De plus, vous ne perdrez plus de temps avec des produits qui ne correspondent pas à ce que vous souhaitez. Search&Find va simplifier le choix lors de vos achats et ceci sans marketing ciblé.
+			</p>
+		</div>
+	</div>
+	
 	<div class="row">
 		<div class="col-md-6">
 				<h2><i class="fa fa-shopping-cart"></i> Acheter</h2>
