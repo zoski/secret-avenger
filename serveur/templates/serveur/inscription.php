@@ -1,6 +1,6 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
-
+<?php include "includes/ban.php" ?>
 <form class="form-horizontal" role="form">
 		<h1>Inscription</h1>
 		<form method="post" action="serveur\templates\serveur\login">

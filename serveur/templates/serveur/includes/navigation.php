@@ -21,7 +21,6 @@
 				</div><!--/.nav-collapse -->
       		</div>
 		</div>
-		
-		<img src="../../static/serveur/img/bannière.jpg" alt="bannière du site" />
+
 		<div class="container"> <!-- Fin dans le footer-->
 			<div class="starter-template">

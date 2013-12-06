@@ -1,5 +1,6 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/navigation.php" ?>
+<?php include "includes/ban.php" ?>
 <form class="form-horizontal" role="form">
 	<h1>Nous contacter</h1>
 	<p class="lead">Pour nous contacter, veuillez remplir les champs suivants :</p>
