@@ -10,7 +10,7 @@
 		<div class="form-group">
 			<label for="pseudo" class="col-sm-4">Pseudonyme :</label>
 			<div class="col-sm-8">
-				<input type="text" class="form-control" name="pseudo" id="pseudo" placeholder="Ex : Paul984" size="30" required focus />
+				<input type="text" class="form-control" name="pseudo" id="pseudo" placeholder="Ex : Paul984" size="30" required />
 			</div>
 		</div>
 
