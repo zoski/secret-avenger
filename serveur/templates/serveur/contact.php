@@ -31,8 +31,9 @@
 				<input type="text" class="form-control" name="message" id="message" size="30" required/>
 				</div>
 		</div>	
-			
-	<button type="submit" class="btn btn-default btn-lg btn-block">Envoyer ;-)</button>	
+		<div id="object" class="fadeIn">	
+			<button type="submit" class="btn btn-primary btn-lg btn-block">Envoyer ;-)</button>
+		</div>
 </form>
 <?php include "includes/footer.php" ?>
 	<!-- Espacer chaque ligne, centrer le titre et la touche "Envoyer" -->

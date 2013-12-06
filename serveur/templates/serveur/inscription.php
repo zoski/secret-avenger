@@ -33,7 +33,9 @@
 				<input type="email" class="form-control" name="mail" id="mail" placeholder="Ex : Paul984@free.fr" size="30" required/>
 				</div>
 		</div>
-		<button type="submit" class="btn btn-default btn-lg btn-block">Envoyer ;-)</button>				
+		<div id="object" class="fadeIn">
+			<button type="submit" class="btn btn-primary btn-lg btn-block">Envoyer ;-)</button>
+		</div>		
 	</form>
 
 <?php include "includes/footer.php" ?>
