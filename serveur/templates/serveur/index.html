@@ -1,28 +1,43 @@
 {% load staticfiles %}
 {% include 'serveur/includes/header.html' %}
 {% include 'serveur/includes/navigation.html' %}
-	<h1>Bienvenue sur Y-commerce</h1>
-    <ul class="description">  
-		<U>description:</U>
-		<li>Y-commerce est un site permettant de faire vos achats selon vos envies et critères. </li>
-		<li>Cela facilitera dans vos choix en sélectionnant les 2 ou 3 liens menant vers le produit qui correspondra le plus à vos attentes.</li>
-		<li>De plus, vous ne perdrez plus de temps avec des produits qui ne correspondent pas à ce que vous souhaitez.</li>
-		<li>Y-commerce va simplifier le choix lors de vos achats et ceci sans marketing ciblé.</li>
-	</ul>
-		
+{% include 'serveur/includes/ban.html' %}
+	<h1>Bienvenue sur Search&Find !! </h1>
 	<div class="row">
-		<div class="col-md-6"><p class="acheter">
-		<h3>Acheter</h3><br/>
-		La partie <em>acheter</em> vous permet de trouver les meilleures offres pour les produits que vous choisissez.</p>
-		<p>Vous choisissez les types de produits recherchés parmi les critères proposés. Le choix sera plus ciblé à chaque étape jusqu'à être 	celui que vous cherchez.</p>
+		<div class="col-md-5">
+			<iframe width=100% height="250px" src="//www.youtube.com/embed/vDwLtqoSCyg" frameborder="0" allowfullscreen></iframe>
+		</div>
+		<div class="col-md-7">
+			<p class="lead"><i class="fa fa-quote-left fa-x3"></i>
+				 Search&Find est un site permettant de faire vos achats selon vos envies et critères.
+				Cela facilitera vos choix en sélectionnant les liens menant vers le produit qui correspondra le plus à vos attentes.
+			</p>	
+			<p class="lead">
+				De plus, vous ne perdrez plus de temps avec des produits qui ne correspondent pas à ce que vous souhaitez. Search&Find va simplifier le choix lors de vos achats et ceci sans marketing ciblé.<i class="fa fa-quote-right fa-x3"></i>
+			</p>
+		</div>
+	</div>
+
+	
+	<div class="row">
+		<div class="col-md-6">
+				<h2><i class="fa fa-shopping-cart"></i> Acheter</h2>
+				<p>La partie <strong>acheter</strong> vous permet de trouver les meilleures offres pour les produits que vous choisissez.
+					Vous choisissez les types de produits recherchés parmi les critères proposés. Le choix sera plus ciblé à chaque étape jusqu'à être 	celui que vous cherchez.
+				</p>
+				<center><a href={% url 'serveur:acheter' %}><button type="button" class="btn btn-primary btn-md">Commencer à acheter</button></a></center>
 		</div>
 
 		<div class="col-md-6">
-	<p class="recommander">
-	<h3>Recommander</h3><br/>
-	La partie <em>recommander</em> vous permet de conseiller à d'autres acheteurs des sites sur lesquels des produits sont disponibles.</p>
-	<p>Vous créez un profil sur lequel vous devez être connecté pour pouvoir recommander des sites. 
-	Cela vous permet de gagner des points de confiance auprès des autres utilisateurs.</p>
+			<h2><i class="fa fa-users"></i> Recommander</h2>
+			<p>La partie <strong>recommander</strong> vous permet de conseiller à d'autres acheteurs des sites sur lesquels des produits sont disponibles.
+				Vous créez un profil sur lequel vous devez être connecté pour pouvoir recommander des sites. 
+				Cela vous permet de gagner des points de confiance auprès des autres utilisateurs.
+			</p>
+				<center><a href={% url 'serveur:acheter' %}><button type="button" class="btn btn-primary btn-md">Proposer</button></a></center>
+			
 		</div>
-	<div>
+	</div>
+	
 {% include 'serveur/includes/footer.html' %}
+

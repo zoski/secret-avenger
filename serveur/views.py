@@ -45,5 +45,15 @@ def logingin(request):
             'erreur_message': "Echec de l'authentification!",
         })
 
+def faq(request):
+    return render(request, 'serveur/faq.html', {})
+
+def contact(request):
+    return render(request, 'serveur/contact.html', {}) 
     
+def xDlogo(request):
+    return render(request, 'serveur/xDlogo.html', {}) 
+    
+def acheter(request):
+    return render(request, 'serveur/acheter.html', {}) 
 

@@ -10,4 +10,8 @@ urlpatterns = patterns('',
     url(r'^login/$', views.login, name='login'),
     url(r'^logingin/$', views.logingin, name='logingin'),
     url(r'^(?P<id>\d+)/search/$', views.search, name='search'),
+    url(r'^faq/$', views.faq, name='faq'),
+    url(r'^contact/$', views.contact, name='contact'),
+    url(r'^xDlogo/$', views.xDlogo, name='xDlogo'),
+    url(r'^acheter/$', views.acheter, name='acheter'),
 )
