@@ -12,17 +12,15 @@
 		
 	<div class="row">
 		<div class="col-md-6">
-				<h2>Acheter</h2>
-				<p>
-					La partie <em>acheter</em> vous permet de trouver les meilleures offres pour les produits que vous choisissez.
+				<h2><i class="fa fa-shopping-cart"></i> Acheter</h2>
+				<p>La partie <em>acheter</em> vous permet de trouver les meilleures offres pour les produits que vous choisissez.
 					Vous choisissez les types de produits recherchés parmi les critères proposés. Le choix sera plus ciblé à chaque étape jusqu'à être 	celui que vous cherchez.
 				</p>
 		</div>
 
 		<div class="col-md-6">
-			<h2>Recommander</h2>
-			<p>
-				La partie <em>recommander</em> vous permet de conseiller à d'autres acheteurs des sites sur lesquels des produits sont disponibles.
+			<h2><i class="fa fa-users"></i> Recommander</h2>
+			<p>La partie <em>recommander</em> vous permet de conseiller à d'autres acheteurs des sites sur lesquels des produits sont disponibles.
 				Vous créez un profil sur lequel vous devez être connecté pour pouvoir recommander des sites. 
 				Cela vous permet de gagner des points de confiance auprès des autres utilisateurs.
 			</p>
