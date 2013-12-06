@@ -46,15 +46,15 @@
 				<div class="row">
 				
 					<div class="col-lg-6">
-						<a href="index.php" class="btn btn-info btn-block cat active" role="button">Livres</br>
+						<a href="livres.php" class="btn btn-info btn-block cat active" role="button">Livres</br>
 							<i class="fa fa-book fa-3x"></i>						
 						</a>	    <!-- Ce bouton permet de rediriger vers un lien-->
 					</div>
 					
 					<div class="col-lg-6">
-						<button class="btn btn-success btn-block cat">Mobilier</br>
+						<a href="mobilier.php" class="btn btn-success btn-block cat active" role="button">Mobilier</br>
 							<i class="fa fa-archive fa-3x"></i>					
-						</button>
+						</a>
 					</div>
 	
 				</div>
@@ -62,15 +62,15 @@
 				<div class="row">
 				
 					<div class="col-lg-6">
-						<button class="btn btn-danger btn-block cat">Numérique</br>
+						<a href="numerique.php" class="btn btn-danger btn-block cat active" role="button">Numérique</br>
 							<i class="fa fa-laptop fa-3x"></i>			
-						</button>	
+						</a>	
 					</div>
 					
 					<div class="col-lg-6">
-						<button class="btn btn-default btn-block cat">Maison</br>
+						<a href="maison.php" class="btn btn-default btn-block cat active" role="button">Maison</br>
 						<i class="fa fa-home fa-3x"></i>
-						</button>
+						</a>
 					</div>
 				</div>
 	
