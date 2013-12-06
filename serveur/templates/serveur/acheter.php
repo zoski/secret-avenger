@@ -42,29 +42,17 @@
 		
 		<div class="container"> <!-- Fin dans le footer-->
 			<div class="starter-template">
+				<div class="row">
+				
+					<div class="col-lg-6">
+						<button class="btn btn-info btn-xlarge cat">Mobilier</button>	
+					</div>
+					
+					<div class="col-lg-6">
+						<button class="btn btn-success btn-xlarge2 cat">Electroménager</button>
+					</div>
 	
-	
-	
-	
-
-	 
-	
-	<p>
-  <button type="button" class="btn btn-primary btn-lg">Mobilier</button>
-  <button type="button" class="btn btn-default btn-lg">Electroménager</button>
- .btn-xlarge {
-    padding: 18px 28px;
-    font-size: 22px;
-    line-height: normal;
-    -webkit-border-radius: 8px;
-       -moz-border-radius: 8px;
-            border-radius: 8px;
-    }
-	<button class="btn btn-xlarge">Extra Large</button>
-</p>
-
-	
-	
+				</div>
 	
 	
 	
