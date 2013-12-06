@@ -21,3 +21,11 @@ h2{
 	font-weight: bold;
 	padding-bottom: 10px;
 }
+
+.logo {
+	padding: 5px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 110%;
+
+}
