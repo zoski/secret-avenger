@@ -1,4 +1,6 @@
 
+<?php include "includes/header.php" ?>
+<?php include "includes/navigation.php" ?>
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
@@ -46,15 +48,11 @@
 				<div class="row">
 				
 					<div class="col-lg-6">
-						<a href="index.php" class="btn btn-info btn-block cat active" role="button">Livres</br>
-							<i class="fa fa-book fa-3x"></i>						
-						</a>	    <!-- Ce bouton permet de rediriger vers un lien-->
+						<a href=http://google.fr class="btn btn-warning btn-block cat" role="button">Cafetiere</a>
 					</div>
 					
 					<div class="col-lg-6">
-						<button class="btn btn-success btn-block cat">Mobilier</br>
-							<i class="fa fa-archive fa-3x"></i>					
-						</button>
+						<a href=http://google.fr class="btn btn-danger btn-block cat" role="button">Lave vaisselle</a>
 					</div>
 	
 				</div>
@@ -62,16 +60,13 @@
 				<div class="row">
 				
 					<div class="col-lg-6">
-						<button class="btn btn-danger btn-block cat">Numérique</br>
-							<i class="fa fa-laptop fa-3x"></i>			
-						</button>	
+						<a href=http://google.fr class="btn btn-success btn-block cat" role="button">Frigidaire</a>
 					</div>
 					
 					<div class="col-lg-6">
-						<button class="btn btn-default btn-block cat">Maison</br>
-						<i class="fa fa-home fa-3x"></i>
-						</button>
+						<a href=http://google.fr class="btn btn-primary btn-block cat" role="button">Machine a laver</a>
 					</div>
+	
 				</div>
 	
 	 <!-- et finit la-->
@@ -83,4 +78,5 @@
 		</div><!-- fin du starter template-->
 	</body>
 </html>
+<?php include "includes/footer.php" ?>
 
