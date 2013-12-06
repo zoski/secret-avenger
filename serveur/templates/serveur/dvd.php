@@ -50,7 +50,7 @@
 					</div>
 					
 					<div class="col-lg-6">
-						<a href="photo.php" class="btn btn-success btn-block cat active" role="button">Photo</a>
+						<a href="dvd.php" class="btn btn-success btn-block cat active" role="button">Dvd</a>
 					</div>
 	
 				</div>
@@ -58,11 +58,11 @@
 				<div class="row">
 				
 					<div class="col-lg-6">
-						<a href="tv.php" class="btn btn-danger btn-block cat active" role="button">TV</a>
+						<a href="dvd.php" class="btn btn-danger btn-block cat active" role="button">Dvd</a>
 					</div>
 					
 					<div class="col-lg-6">
-						<a href="pc.php" class="btn btn-warnig btn-block cat active" role="button">PC</a>
+						<a href="dvd.php" class="btn btn-warnig btn-block cat active" role="button">Dvd</a>
 					</div>
 	
 				</div>
