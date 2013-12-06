@@ -28,7 +28,7 @@
 		<div class="form-group">
 			<label for="inputMsg" class="col-sm-4">Votre message :</label>
 				<div class="col-sm-8">
-				<input type="text" class="form-control" name="message" id="message" size="30" required/>
+				<input type="text" class="form-control" rows="3" name="message" id="message" size="30" required/>
 				</div>
 		</div>	
 		<div id="object" class="fadeIn">	
