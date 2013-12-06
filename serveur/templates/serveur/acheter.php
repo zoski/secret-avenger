@@ -46,7 +46,7 @@
 				<div class="row">
 				
 					<div class="col-lg-6">
-						<button class="btn btn-info btn-block cat">Livres</button>	
+						<a href="index.php" class="btn btn-info btn-block cat active" role="button">Livres</a>	    <!-- Ce bouton permet de rediriger vers un lien-->
 					</div>
 					
 					<div class="col-lg-6">
