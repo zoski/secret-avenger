@@ -39,6 +39,7 @@
       		</div>
 		</div>
 		
+		<!-- Le code commence ici-->
 		
 		<div class="container"> <!-- Fin dans le footer-->
 			<div class="starter-template">
@@ -66,7 +67,7 @@
 	
 				</div>
 	
-	
+	 <!-- et finit la-->
 	
 	
 	    		<script src="js/jquery.js"></script>
